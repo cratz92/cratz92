@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h4>🌱 I now attend a computer science course at the globally well-known<br><h2>42 school.</h2></h4>
+<h4>🌱 I now attend a computer science course at the globally well-known<h2>42 school.</h2></h4>
 
 
 

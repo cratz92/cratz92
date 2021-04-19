@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3>💸 Since I want to continue to be financially independent,<br> I have decided to start a startup in the game development area,<br> Cratz Media. </h3>
+<h3>💸 Since I want to continue to be financially independent,<br> I have decided to start a startup in the game development and digital media area,<br> Cratz Media. </h3>
 
 
 

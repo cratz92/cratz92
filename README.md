@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   
   
-<h2>👋 Hi, there !!<br>I’m Carlos (@cratz92)<br>a young mechanical engineer that is looking for a career change</h2>
+<h2>👋 Hi, there !!<br>I’m Carlos (@cratz92)<br><h3>a young mechanical engineer that is looking for a career change</h3></h2>
 
 <h3> ... Passionate over technologies...  Eager to learn new stuff... </h3>
 

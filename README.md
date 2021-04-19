@@ -6,30 +6,33 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   
   
-<h3>👋 Hi, there !!<br>I’m Carlos (@cratz92)<br>a young mechanical engineer that is looking for a career change</h3>
+<h2>👋 Hi, there !!<br>I’m Carlos (@cratz92)<br>a young mechanical engineer that is looking for a career change</h2>
 
-<h4> </h4>
+<h3> ... Passionate over technologies...  Eager to learn new stuff... </h3>
 
 
 
-<hr width="50%" style="height:5px;">
+<h4>👀 After some time working in the area and with the start of Covid-19 pandemic,<br>I decided to pursue my other passion that is programing and drawing.</h4>
 
-... Passionate over technologies...  Eager to learn new stuff...
 
-- , .
 
-- 👀 After some time working in the area and with the start of Covid-19 pandemic, decided to pursue my other passion that is programing and drawing.
+<h4>🌱 I now attend a computer science course at the globally well-known<br><br></h4> <h2>42 school.</h2>
 
-- 🌱 I now attend a computer science course at the globally well-known 42 school.
 
-- 💸 Since I want to continue to be financially independent, I have decided to start a startup in the game development area, Cratz Media.   
 
-- 📚 This way I can use all the knowledge that I know now and in the future with the art side, too 🤞
+<h3>📚 Programming skills:<br> HTML/CSS/Javascript <br> C#/C/shell <br> SQL/MySQL/Matlab <br><h4> Plans include start learning backend languages</h4> </h3>
 
-- 📫 You can find below the links to my social media and Cratz Media page 
+
+
+<h3>💸 Since I want to continue to be financially independent,<br> I have decided to start a startup in the game development area,<br> Cratz Media. </h3>
+
+
+
+<h4>📫 You can find below the links to my social media and Cratz Media page</h4>
 
 
 ---
+
 **Social**
 
 [instagram](https://www.instagram.com/caacaa92/)
@@ -41,6 +44,7 @@ You can click the Preview link to take a look at your changes.
 [facebook](https://www.facebook.com/cratz92)
 
 ---
+
 **Cratz Media**
 
 [instagram](https://www.instagram.com/cratz_media/)

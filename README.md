@@ -68,6 +68,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/cratz92/cratz92/blob/main/images/svg/Thanks%20for%20visiting%20my%20profile!.svg" />
+<img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/cratz92/cratz92/blob/main/images/gif/output_DaeKdr.gif" />
     
 </div>

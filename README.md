@@ -3,6 +3,28 @@ cratz92/cratz92 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cratz92&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cratz92&layout=compact"/>
+</div>
+
+<div>
+  <h2>Social</h2>
+  <a href="https://www.instagram.com/caacaa92" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos-leal-0a739968" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/caacaa92" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/cratz92" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+  <h2>Cratz Media</h2>
+  <a href="https://www.instagram.com/cratz_media/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+  ![Snake animation](https://github.com/cratz92/cratz92/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 <div align="center">
   
   
@@ -29,29 +51,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <h4>📫 You can find below the links to my social media and Cratz Media page</h4>
-
-
----
-
-**Social**
-
-[instagram](https://www.instagram.com/caacaa92/)
-
-[linkedin](https://www.linkedin.com/in/carlos-leal-0a739968/)
-
-[twitter](https://twitter.com/caacaa92)
-
-[facebook](https://www.facebook.com/cratz92)
-
----
-
-**Cratz Media**
-
-[instagram](https://www.instagram.com/cratz_media/)
-
----
-
-
-
 
 </div>

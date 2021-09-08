@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 ##
 
 <div>
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=cratz92&show_icons=true&count_private=true&theme=radical">
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cratz92&layout=compact&theme=radical">
+    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=cratz92&show_icons=true&count_private=true&theme=graywhite">
+    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cratz92&hide=Makefile&langs_count=10&layout=compact&theme=graywhite">
 </div>
 
    ![Snake animation](https://github.com/cratz92/cratz92/blob/output/github-contribution-grid-snake.svg)
@@ -55,18 +55,19 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div>
-    <h2>📫 You can find below the links to my social media ...</h2>
-    <a href="https://www.instagram.com/caacaa92" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <h2>📫 You can find below the links to my social media </h2>
+    <a href="https://www.instagram.com/caacaa92"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/carlos-leal-0a739968" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/caacaa92" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/cratz92" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
-    <h2>... and Cratz Media page</h2>
+    <h2> and Cratz Media page</h2>
     <a href="https://www.instagram.com/cratz_media/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+##
 
 <img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/cratz92/cratz92/blob/main/images/gif/output_DaeKdr.gif" />
     

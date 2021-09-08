@@ -46,9 +46,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
+##
+    
 <div>
-    <h3>💸 Since I want to continue to be financially independent,<br> I have decided to start a startup in the game development and digital media area,<br></h3>
-    <img height="180em" scr="https://github.com/cratz92/cratz92/blob/main/images/png/logo1.png">
+    <h3>💸 Since I want to continue to be financially independent,<br><br> I have decided to start a startup in the game development and digital media area,<br></h3>
+    <img width="50%" src="https://github.com/cratz92/cratz92/blob/main/images/png/logo1.png">
 </div>
 
 <div>

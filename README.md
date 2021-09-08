@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <div>
-    <h2>👋 Hi, there !!<br>I’m Carlos<br><h3>a young mechanical engineer that is looking for a career change</h3></h2>
+    <img src="https://github.com/cratz92/cratz92/blob/main/images/gif/output_tJcH3O.gif"/>
+    <h3>a young mechanical engineer that is looking for a career change</h3>
     <h3> ... Passionate over technologies...  Eager to learn new stuff... </h3>
     <h4>👀 After some time working in the area and with the start of Covid-19 pandemic,<br>I decided to pursue my other passion that is programing and drawing.</h4>
     <h4>🌱 I now attend a computer science course at the globally well-known</h4>

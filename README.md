@@ -50,8 +50,8 @@ You can click the Preview link to take a look at your changes.
 ##
     
 <div>
-    <h3 style="margin-bottom: 0px;">💸 Since I want to continue to be financially independent,<br><br> I have decided to start a startup in the game development and digital media area,<br></h3>
-    <img width="50%" height="30%" src="https://github.com/cratz92/cratz92/blob/main/images/png/logo1.png">
+    <h3 style="margin-bottom: 0;">💸 Since I want to continue to be financially independent,<br><br> I have decided to start a startup in the game development and digital media area,<br></h3>
+    <img height="250px" src="https://github.com/cratz92/cratz92/blob/main/images/png/logo1.png">
 </div>
 
 ##    

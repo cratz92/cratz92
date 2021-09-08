@@ -65,12 +65,11 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div>
-    <h3>... and Cratz Media. While you here, follow us on 👇</h3>
-    <a href="https://www.instagram.com/cratz_media/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <h3>... and Cratz Media page. While you here, FOLLOW US ✌🏼</h3>
+    <a href="https://www.instagram.com/cratz_media/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
 </div>
 
-##    
-
+##
 <img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://github.com/cratz92/cratz92/blob/main/images/gif/output_DaeKdr.gif" />
     
 </div>

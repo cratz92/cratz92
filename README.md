@@ -3,9 +3,9 @@ cratz92/cratz92 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<div>
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=cratz92&show_icons=true&count_private=true&theme=radical">
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cratz92&layout=compact&theme=radical">
+<div  display="block">
+    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=cratz92&show_icons=true&count_private=true&theme=radical">
+    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cratz92&layout=compact&theme=radical">
 </div>
 
 <div>

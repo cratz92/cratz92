@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
     <h3 align="left">💸 Meanwhile since I want to continue to be financially independent,<br></h3>
-    <h3 align="right">I have decided to <b>kick off</b>a startup in the game development and digital media area,<br></h3>
+    <h3 align="right">I have decided to __KICK_OFF__ a startup in the game development and digital media area,<br></h3>
     <img height="250px" src="https://github.com/cratz92/cratz92/blob/main/images/png/logo1.png">
 </div>
     

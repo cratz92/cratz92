@@ -7,14 +7,20 @@ You can click the Preview link to take a look at your changes.
 <div>
     <img src="https://github.com/cratz92/cratz92/blob/main/images/gif/output_tJcH3O.gif"/>
     <h3>a young mechanical engineer that is looking for a career change</h3>
-    <h3> ... Passionate over technologies...  Eager to learn new stuff... </h3>
+    <h3 align="left"> ... Passionate over technologies...  Eager to learn new stuff... </h3>
     <h4>👀 After some time working in the area and with the start of Covid-19 pandemic,<br>I decided to pursue my other passion that is programing and drawing.</h4>
-    <h4>🌱 I now attend a computer science course at the globally well-known</h4>
-    <img src="https://www.42lisboa.com/wp-content/themes/42lisboa/images/logo42_dark.svg">
+    <h3 align="right">🌱 I now attend a computer science course at the globally well-known</h3>
+    <img align="right" src="https://www.42lisboa.com/wp-content/themes/42lisboa/images/logo42_dark.svg">
 </div>
 
-##
+<div>
+    <p><br><br><br></p>
+</div>
 
+<div align="left">   
+    <h4>Some data about my <img src="https://badges.aleen42.com/src/github.svg"/> activity...</h4>
+</div>
+    
 <div>
     <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=cratz92&show_icons=true&count_private=true&theme=graywhite">
     <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cratz92&hide=Makefile&langs_count=10&layout=compact&theme=graywhite">
@@ -42,18 +48,33 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div>
-    <h4>Plans include start learning backend languages like</h4>
+    <h4>Plans include start learning:</h4>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
 ##
-    
+
 <div>
-    <h3 style="margin-bottom: 0;">💸 Since I want to continue to be financially independent,<br><br> I have decided to start a startup in the game development and digital media area,<br></h3>
+    <h4>Current equipment:</h4>
+    <img src="https://img.shields.io/badge/Windows-Thinkpad_L13-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+    <h4><br>Most used software</h4>
+    <img src="https://img.shields.io/badge/VSCode-07405E?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Photoshop-0077B5?style=for-the-badge"><br><br>
+</div>
+  
+##
+
+<div>
+    <h3 align="left">💸 Meanwhile since I want to continue to be financially independent,<br></h3>
+    <h3 align="right">I have decided to <b>kick off</b>a startup in the game development and digital media area,<br></h3>
     <img height="250px" src="https://github.com/cratz92/cratz92/blob/main/images/png/logo1.png">
 </div>
-
+    
 ##    
     
 <div>
@@ -65,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div>
-    <h3>... and Cratz Media page. While you here, FOLLOW US ✌🏼</h3>
+    <h4>... and Cratz Media page. While you here,<h3> FOLLOW US 👇🏼</h3></h4>
     <a href="https://www.instagram.com/cratz_media/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
 </div>
 

@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
     <h3 align="right">🌱 I attended a computer science course as one of the first portuguese students at the globally well-known</h3>
     <img align="right" src="https://www.42lisboa.com/wp-content/themes/42lisboa/images/logo42_dark.svg"><br>
     <h3> In the meanwhile, I joined the UpSkill program as a student of Cloud Azure. </h3>
-    <h3>Currently I'm working as a <strong>Cloud Administrator</strong>. </h3><br>
+    <h3>Currently I'm working as a <strong>Cloud Administrator</strong> <br>at </h3><br>
     <img align="center" src="https://dca.cat/wp-content/uploads/2022/03/NTT-Data-Logo.svg-Didac-Cabus.png" width="200" heigh="100">
 </div>
 
@@ -42,21 +42,29 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div>
 
 <div>
     <h3>Currently working on:</h3>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 
 <div>
     <h4>Plans include start learning:</h4>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
+<div>
+    <h4>Used Tools:</h4>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+</div>
+    
 ##
 
 <div>

@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
     <h3 align="right">🌱 I attended a computer science course as one of the first portuguese students at the globally well-known</h3>
     <img align="right" src="https://www.42lisboa.com/wp-content/themes/42lisboa/images/logo42_dark.svg">
     <h3> In the meanwhile, I joined the UpSkill program as a student of Cloud Azure. </h3>
-    <h3>Currently I'm working as a <b>Cloud Administrator</b>. </h3>
-    <img align="right" src="https://dca.cat/wp-content/uploads/2022/03/NTT-Data-Logo.svg-Didac-Cabus.png">
+    <h3>Currently I'm working as a <strong>Cloud Administrator</strong>. </h3>
+    <img align="right" src="https://dca.cat/wp-content/uploads/2022/03/NTT-Data-Logo.svg-Didac-Cabus.png" width="100" heigh="50">
 </div>
 
 <div>

@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
     <h3 align="left"> ... Passionate over technologies...  Eager to learn new stuff... </h3>
     <h4>👀 After some time working in the area and with the start of Covid-19 pandemic,<br>I decided to pursue my other passion that is programing and drawing.</h4>
     <h3 align="right">🌱 I attended a computer science course as one of the first portuguese students at the globally well-known</h3>
-    <img align="right" src="https://www.42lisboa.com/wp-content/themes/42lisboa/images/logo42_dark.svg">
+    <img align="right" src="https://www.42lisboa.com/wp-content/themes/42lisboa/images/logo42_dark.svg"><br>
     <h3> In the meanwhile, I joined the UpSkill program as a student of Cloud Azure. </h3>
-    <h3>Currently I'm working as a <strong>Cloud Administrator</strong>. </h3>
-    <img align="right" src="https://dca.cat/wp-content/uploads/2022/03/NTT-Data-Logo.svg-Didac-Cabus.png" width="100" heigh="50">
+    <h3>Currently I'm working as a <strong>Cloud Administrator</strong>. </h3><br>
+    <img align="center" src="https://dca.cat/wp-content/uploads/2022/03/NTT-Data-Logo.svg-Didac-Cabus.png" width="200" heigh="100">
 </div>
 
 <div>
